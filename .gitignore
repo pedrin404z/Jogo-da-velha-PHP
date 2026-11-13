@@ -1,0 +1,9 @@
+# Dependências e arquivos locais
+/vendor/
+.env
+
+# Editores e sistema
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
